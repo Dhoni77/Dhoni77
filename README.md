@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Keep Learning
 
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Dhoni77&show_icons=true&hide_border=true)
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Dhoni77&theme=radical&show_icons=true&hide_border=true)
