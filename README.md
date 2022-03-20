@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Keep Learning
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Dhoni77&theme=radical&show_icons=true&hide_border=true)
+<!-- ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
