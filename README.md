@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Dhoni77&theme=radical&show_icons=true&hide_border=true)
 <!-- ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
+Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,angular,react,nextjs,redux,jest,express,firebase,nodejs,gcp,git,github,postgres,prisma,vite,webpack&theme=dark)](https://skillicons.dev)
