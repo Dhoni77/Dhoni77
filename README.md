@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <!-- ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,angular,react,nextjs,redux,jest,express,firebase,nodejs,gcp,git,github,postgres,prisma,vite,webpack&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,tailwind,angular,react,nextjs,redux,jest,express,nestjs,django,firebase,nodejs,gcp,git,github,postgres,prisma,vite,webpack,rollupjs,vscode,postman,&theme=dark)](https://skillicons.dev)
